@@ -1,0 +1,49 @@
+/* Colors and fonts */
+body {
+  background-color: rgb(230, 230, 230);
+  color: black;
+  font-family: Courier;
+  font-size: 18px;
+  margin: 30px;
+  padding: 60px;
+  border-radius: 10px;
+}
+h1, h2, h3 {
+ 
+}  
+h1 {
+  color: black;
+  font-family: Helvetica;
+  font-weight: 100;
+  letter-spacing: 10px;
+  font-size: 60px;
+  font-family: 'Roboto', sans-serif;
+}  
+
+h2 {
+  color: Blue;
+  font-family: Courier;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: purple;  
+  border: 2px solid black;
+}  
+a:hover {
+  color: red;  
+}   
+
+div {
+  background: #ffeded;
+  border: 2px solid black;
+  margin: 30px;
+}
+
+img {
+  width: 310px;
+  margin: 20px;
+  border-radius: 50%;
+}    
+
